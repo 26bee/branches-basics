@@ -3,6 +3,6 @@
 
 int main()
 {
-printf("Hello");
+printf("Goodbay");
 return 0;
 }
